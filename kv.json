@@ -1,0 +1,44 @@
+{
+  "Mon": [
+    {
+      "user": "@Shodiyorbek_2oo4",
+      "food": "Taom"
+    }
+  ],
+  "Tue": [
+    {
+      "user": "@Shodiyorbek_2oo4",
+      "food": "Mastava"
+    }
+  ],
+  "Wed": [
+    {
+      "user": "@TurakulkhojievBekhzod",
+      "food": "Osh"
+    }
+  ],
+  "Thu": [
+    {
+      "time": "@Shodiyorbek_2oo4",
+      "food": "Makaron"
+    }
+  ],
+  "Fri": [
+    {
+      "time": "@Shodiyorbek_2oo4",
+      "food": "Taom"
+    }
+  ],
+  "Sat": [
+    {
+      "time": "@Majesty_16",
+      "food": "Taom"
+    }
+  ],
+  "Sun": [
+    {
+      "time": "@XabibullayevJahongir",
+      "food": "Osh"
+    }
+  ]
+}
